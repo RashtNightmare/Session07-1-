@@ -12,6 +12,7 @@
 @endsection
 
 @section("content")
+Delete Option Doesn't work Yet
 
 <div class="p-2">
     <table bordered >

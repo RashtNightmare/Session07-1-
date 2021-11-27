@@ -154,7 +154,7 @@ class UserController extends Controller
      */
     public function destroy($id)
     {
-        $user= User::query()->where('id', $id)->delete();
+       User::query()->where('id', $id)->delete();
         return $this->index();
     }
 }

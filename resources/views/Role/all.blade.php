@@ -12,7 +12,7 @@
 
 @section("content")
 <!-- ------------------------------------------------------------- -->
-
+Delete Option Doesn't work Yet
    <table bordered >
       <tr style="background-color: #aacc09">
        <td>id</td>
